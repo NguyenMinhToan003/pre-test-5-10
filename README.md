@@ -35,7 +35,7 @@ backend/
 ### 1. Clone the repository
 ```bash
 git clone <repo-url>
-cd interview-110/backend
+cd pre-test-5-10/backend
 ```
 
 ### 2. Install dependencies
@@ -164,7 +164,7 @@ frontend/
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd frontend
+cd pre-test-5-10/frontend
 ```
 
 ### 2. Install dependencies
